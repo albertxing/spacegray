@@ -17,7 +17,7 @@ Light variation based on Base16 Ocean Light color scheme.
 
     {
       "theme": "Spacegray Light.sublime-theme",
-      "color_scheme": "Packages/Theme - Spacegray/base16-ocean.light.tmTheme"
+      "color_scheme": "Packages/Spacegray/base16-ocean.light.tmTheme"
     }
 
 
@@ -29,7 +29,7 @@ A variation based on Base16 Eighties Dark color scheme.
 
     {
       "theme": "Spacegray Eighties.sublime-theme",
-      "color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme"
+      "color_scheme": "Packages/Spacegray/base16-eighties.dark.tmTheme"
     }
 
 
