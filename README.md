@@ -28,13 +28,13 @@ A variation based on Base16 Eighties Dark color scheme.
 
 ### How to Install
 
-#### Via Package Control
+#### ~~Via Package Control~~
 
-The easiest way to install is using [Sublime Package Control](https://sublime.wbond.net), where Spacegray is listed as `Spacegray`.
+~~The easiest way to install is using [Sublime Package Control](https://sublime.wbond.net), where Spacegray is listed as `Spacegray`.~~
 
-1. Open Command Palette using menu item `Tools -> Command Palette...` (⇧+⌘+P on Mac)
-2. Choose `Package Control: Install Package`
-3. Find `Spacegray` and hit Enter
+1. ~~Open Command Palette using menu item `Tools -> Command Palette...` (⇧+⌘+P on Mac)~~
+2. ~~Choose `Package Control: Install Package`~~
+3. ~~Find `Spacegray` and hit Enter~~
 
 #### Manual
 
