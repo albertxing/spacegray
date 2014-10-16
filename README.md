@@ -40,7 +40,7 @@ A variation based on Base16 Eighties Dark color scheme.
 
 You can also install the theme manually:
 
-1. Download the latest .sublime-package file from the releases
+1. Download the latest [.sublime-package file](https://github.com/albertxing/spacegray/releases/download/2.0.0/Spacegray.sublime-package) from the releases
 2. Copy into the Packages directory (which you can find using "Browse Packages" in command palette)
 
 ***
